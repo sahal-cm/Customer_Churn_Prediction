@@ -21,6 +21,14 @@ The dataset contains information about **7,043 telecom customers**.
 * **Duplicate Records:** 0
 * **Target Variable:** `Churn`
 
+
+### Dataset Source
+
+The dataset was obtained from Kaggle:
+
+🔗 [Telco Customer Churn Dataset] https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+
 The target variable indicates whether a customer has left the telecom service.
 
 ---
